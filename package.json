@@ -1,7 +1,7 @@
 {
   "name": "robot",
   "version": "0.0.0",
-  "description": "It is an robot!",
+  "description": "It is an Zooi!",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --config webpack.production.js",
@@ -22,9 +22,6 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "^2.7.0",
-    "@tensorflow/tfjs-vis": "^1.4.3",
-    "file-loader": "^6.2.0",
-    "three": "^0.122.0"
+    "file-loader": "^6.2.0"
   }
 }
